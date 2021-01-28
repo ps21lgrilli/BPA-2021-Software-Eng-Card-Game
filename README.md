@@ -6,7 +6,7 @@ BPA Software Development Team Project
 
 The game and all game files are located in the Ramirtah folder
 
-To play the game launch New Unity Project application in the Ramirtah Build Folder
+To play the game launch New Unity Project.exe in the Ramirtah Build Folder
 
 All documents are in the Documents folder ex: Work Cited and Flow Chart
 
